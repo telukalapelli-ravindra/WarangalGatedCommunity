@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+<appender name="CONSOLE"    class="ch.qos.logback.core.ConsoleAppender">
+
+<encoder>
+	<pattern>
+%msg%n
+	</pattern>
+</encoder>
+</appender>
+
+    <!-- Disable Hibernate Logs -->
+    <logger name="org.hibernate" level="OFF"/>
+
+    <!-- Disable Tomcat Logs -->
+    <logger name="org.apache" level="OFF"/>
+
+
+
+<root level="debug">
+ <appender-ref ref="CONSOLE"/>
+</root>
+
+</configuration>
