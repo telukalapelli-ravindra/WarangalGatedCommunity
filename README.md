@@ -18,4 +18,4 @@ Features:
 - Dashboard
 
 Architecture:
-Controller → Service → DAO → Hibernate → MySQL
+Controller → DTO → Service → DAO → Hibernate → MySQL
