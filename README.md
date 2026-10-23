@@ -117,7 +117,7 @@ I build Java backends with Spring Boot: secure REST APIs, layered architecture, 
 <img alt="Ravindra's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=telukalapelli-ravindra&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/telukalapelli-ravindra/telukalapelli-ravindra/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/telukalapelli-ravindra/WarangalGatedCommunity/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/telukalapelli-ravindra/telukalapelli-ravindra/output/github-snake.svg">
   <img alt="Animated snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/telukalapelli-ravindra/telukalapelli-ravindra/output/github-snake-dark.svg">
 </picture>
